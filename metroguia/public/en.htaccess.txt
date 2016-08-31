@@ -1,0 +1,6 @@
+<VirtualHost 50.62.169.111:80>
+    DocumentRoot /var/webs/metroguia.org/html/metroguia/public
+    ServerName www.metroguia.org
+    ServerAlias metroguia.org
+</VirtualHost>
+
